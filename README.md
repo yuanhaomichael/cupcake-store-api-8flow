@@ -10,9 +10,6 @@ Run `yarn start` to start the server on http://localhost:3000 and make requests 
 ### Version
 - **API Version:** 1.0.0
 
-### Contact
-- **Email:** apiteam@cupcakestore.com
-
 ### License
 - **License Name:** Apache 2.0
 - **License URL:** [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)

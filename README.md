@@ -5,6 +5,8 @@
 Run `yarn` first to install dependencies.
 Run `yarn start` to start the server on http://localhost:3000 and make requests with Postman according to the OpenAPI spec. While the server is running, run `yarn test` to test database and API functions.
 
+[API spec](https://docs.google.com/document/d/16r8NDwR_zgDxkifBMrma3GRK5cnLpne5k76JceoTlBo/edit)
+
 ### Version
 - **API Version:** 1.0.0
 

@@ -2,7 +2,7 @@
   "name": "8flow",
   "version": "1.0.0",
   "engines": {
-    "node": ">=18.18.0"
+    "node": ">=16.0.0"
   },
   "description": "A server for a cupcake store",
   "main": "index.js",

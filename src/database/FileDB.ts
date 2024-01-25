@@ -19,7 +19,7 @@ interface Record {
 class FileDB {
   private directory: string;
 
-  constructor(directory: string = 'documents') {
+  constructor(directory: string = './src/database/documents') {
     this.directory = directory;
     // Ensure the directory exists, create if it doesn't
     if (!existsSync(this.directory)) {
